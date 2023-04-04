@@ -1,0 +1,21 @@
+
+
+@media all and (max-width: 480px){
+ body{
+    justify-content: center;
+    padding: 20px;
+ }
+ #name1{
+width: 70px;
+
+ }
+ #email{
+  
+ 
+   
+ }
+ #form-message{
+
+    width: 70px;
+ }
+}
